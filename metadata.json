@@ -1,0 +1,6 @@
+{
+  "name": "BioQuiz Platform",
+  "description": "Biologiya fanidan qiziqarli testlar, guruhlar boshqaruvi va interval takrorlash tizimiga ega platforma",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
